@@ -62,8 +62,7 @@ SOURCE_URLS = [
     "https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/27.txt",
     "https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/29.txt",
     "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt",
-    "socks://MTIzOjEyMw@8.218.165.212:3060#%E9%A6%99%E6%B8%AF
-vless://5d3cbdb2-b82d-4078-82b8-5dd413cca82b@35.229.136.113:35412?security=reality&encryption=none&pbk=eg6DfbLnWtz7PubkXRYvSuQx6QWIRxUsn4l7QEO3Cg4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=0630b874d595#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2018
+    "vless://5d3cbdb2-b82d-4078-82b8-5dd413cca82b@35.229.136.113:35412?security=reality&encryption=none&pbk=eg6DfbLnWtz7PubkXRYvSuQx6QWIRxUsn4l7QEO3Cg4&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=0630b874d595#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2018
 vless://5859f6a7-cda1-47c2-8353-fcdee281f31d@104.199.219.172:40800?security=reality&encryption=none&pbk=zohUbvPLKVBwzuDmZNsaXXFYZSKA9_xEhdUyURChrgo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=186e4c2732d61a3d#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2020
 vless://b0342e8a-a25e-4e30-b598-d9391b0df4c9@34.80.184.198:44848?security=reality&encryption=none&pbk=w9vWLOHjl46krA8IEpGoPI9scTL0rFdjCtjdukJDciU&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=2338740580a5de#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2015
 vless://41b96ee9-ee5e-455f-9753-187a9dead97a@35.221.158.209:32981?security=reality&encryption=none&pbk=JSn0GPz1WOSTUDBxN_XYnhgb2Jpjc2LpfBTzX1j3V2E&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=70f4b7a4c40636#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2012
